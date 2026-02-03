@@ -1,0 +1,7 @@
+PyQt6
+requests
+deep-translator
+jieba
+PySide6
+pyside6-addons
+wordcloud
